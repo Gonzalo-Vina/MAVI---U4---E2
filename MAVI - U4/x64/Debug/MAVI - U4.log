@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Tparto\Desktop\MAVI - U4\MAVI - U4\main.cpp(83,95): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Tparto\Desktop\MAVI - U4\MAVI - U4\main.cpp(83,59): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Tparto\Desktop\MAVI - U4\MAVI - U4\main.cpp(86,95): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Tparto\Desktop\MAVI - U4\MAVI - U4\main.cpp(86,59): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Tparto\Desktop\MAVI - U4\MAVI - U4\main.cpp(89,95): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Tparto\Desktop\MAVI - U4\MAVI - U4\main.cpp(89,59): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Tparto\Desktop\MAVI - U4\MAVI - U4\main.cpp(92,95): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Tparto\Desktop\MAVI - U4\MAVI - U4\main.cpp(92,59): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  MAVI - U4.vcxproj -> C:\Users\Tparto\Desktop\MAVI - U4\x64\Debug\MAVI - U4.exe
